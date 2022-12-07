@@ -1,2 +1,2 @@
 # Deep-Learning-Specialization-Coursera
-Deep Learning Specialization is a online based course provided by Coursera. Here in this repository all the source code of assignment is provided.
+Deep Learning Specialization is a online based course provided by Coursera. Here in this repository all the source code of assignment is provided. You can just download the dataset from kaggle(mostly); then run the code in google_colab/local IDE. Here I used google drive to store the datasets and then unzip the datasets and use the datasets to train the model.
